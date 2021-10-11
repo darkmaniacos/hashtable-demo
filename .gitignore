@@ -1,0 +1,5 @@
+# Bynary files
+*.exe
+
+# 4coder project architecture
+*.4coder
