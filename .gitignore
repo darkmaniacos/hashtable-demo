@@ -1,5 +1,7 @@
 # Bynary files
 *.exe
+*.obj
+*.pdb
 
 # 4coder project architecture
 *.4coder
