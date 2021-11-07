@@ -1,2 +1,2 @@
-# mine-hashtable
-A hashtable sample made from scretch in C.
+# Hashtable demo
+A hashtable sample made from scretch using cpp.
